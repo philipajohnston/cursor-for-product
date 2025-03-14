@@ -1,0 +1,10 @@
+type(scope): [US-X] description
+
+# Details about the changes
+- What changed
+- Why it changed
+- Breaking changes
+
+# Related
+- Fixes #issue
+- Implements US-X

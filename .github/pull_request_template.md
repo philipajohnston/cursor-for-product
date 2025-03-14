@@ -1,0 +1,1 @@
+## Related User Story\n[US-X] Story title\n\n## Changes Made\n- Change 1\n- Change 2\n\n## Acceptance Criteria\n- [ ] Criterion 1\n- [ ] Criterion 2\n\n## Testing\n- [ ] Unit tests\n- [ ] Integration tests\n\n## Documentation\n- [ ] Updated docs\n- [ ] Added comments\n\n## Additional Notes\nAny extra context
